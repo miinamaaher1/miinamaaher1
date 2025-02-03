@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minamaher1 "Mina Maher"
+- 👋 Hi, I’m @miinamaaher1 "Mina Maher"
 - 👀 I’m interested in application development
 - 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on ...
